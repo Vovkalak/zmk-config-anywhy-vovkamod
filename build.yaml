@@ -23,6 +23,6 @@ include:
     shield: anywhy_vovka_left
     snippet: studio-rpc-usb-uart
   - board: nice_nano
-    shield: anywhy_flake_right
+    shield: anywhy_vovka_right
   - board: nice_nano
     shield: settings_reset
